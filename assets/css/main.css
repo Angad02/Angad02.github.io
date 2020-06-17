@@ -3870,6 +3870,7 @@ input, select, textarea {
 
 .timeline-item-primary {
 	text-align: left;
+	font-size:1.1rem;
 }
 
 .timeline-list-item {
