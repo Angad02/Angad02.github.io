@@ -3884,3 +3884,16 @@ li {
 }
 
 li span { color: black; }
+
+
+.title_tag{
+	margin-bottom: 0px;
+}
+
+
+
+@media screen and (max-width: 400px) {
+	.mobile-tag {
+		margin-top: 1rem;
+	}
+}
